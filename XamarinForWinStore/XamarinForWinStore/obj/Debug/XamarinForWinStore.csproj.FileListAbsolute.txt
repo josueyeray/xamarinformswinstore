@@ -1,0 +1,8 @@
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore\bin\Debug\XamarinForWinStore.dll
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore\bin\Debug\XamarinForWinStore.pdb
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore\bin\Debug\Xamarin.Forms.Core.dll
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore\bin\Debug\Xamarin.Forms.Core.xml
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore\obj\Debug\XamarinForWinStore.dll
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore\obj\Debug\XamarinForWinStore.pdb

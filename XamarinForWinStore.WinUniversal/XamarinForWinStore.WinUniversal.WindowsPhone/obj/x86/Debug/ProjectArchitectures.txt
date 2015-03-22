@@ -1,0 +1,2 @@
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore.WinUniversal\XamarinForWinStore.WinUniversal.WindowsPhone\XamarinForWinStore.WinUniversal.WindowsPhone.csproj;x86
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.csproj;neutral

@@ -1,0 +1,13 @@
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\bin\iPhone\Debug\XamarinForWinStoreiOS.exe
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\bin\iPhone\Debug\XamarinForWinStoreiOS.pdb
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.dll
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\bin\iPhone\Debug\Xamarin.Forms.Platform.iOS.dll
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.dll
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\bin\iPhone\Debug\XamarinForWinStore.dll
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\bin\iPhone\Debug\XamarinForWinStore.pdb
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\bin\iPhone\Debug\Xamarin.Forms.Core.xml
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\bin\iPhone\Debug\Xamarin.Forms.Xaml.xml
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\obj\iPhone\Debug\
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\obj\iPhone\Debug\XamarinForWinStore.iOS.csprojResolveAssemblyReference.cache
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\obj\iPhone\Debug\XamarinForWinStoreiOS.exe
+C:\Personal\DESARROLLO\Blog\XamarinForWinStore\XamarinForWinStore\XamarinForWinStore.iOS\obj\iPhone\Debug\XamarinForWinStoreiOS.pdb
